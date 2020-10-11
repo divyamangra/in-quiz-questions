@@ -152,7 +152,7 @@ OAuth authorization server
 - no-proxy
 - client-only
 - restricted
-- private
+- private <- Correct
 
 #### Q25. Which OAuth grant type can support a refresh token?
 
